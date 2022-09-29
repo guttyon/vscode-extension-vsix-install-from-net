@@ -3,7 +3,7 @@
   "displayName": "vsix-install-from-net",
   "description": "",
   "version": "0.0.1",
-  "repository": {"url": "https://github.com/guttyon/vsix-install-from-net/"},
+  "repository": {"url": "https://github.com/guttyon/vscode-extension-vsix-install-from-net/"},
   "engines": {
     "vscode": "^1.71.0"
   },

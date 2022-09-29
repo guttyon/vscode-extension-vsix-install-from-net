@@ -1,6 +1,6 @@
 # vsix-install-from-net README
 
-This is the README for your extension "vsix-install-from-net". After writing up a brief description, we recommend including the following sections.
+install vsix from net.(github)
 
 ## Features
 
